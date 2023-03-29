@@ -1,0 +1,16 @@
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\bin\Debug\ex04-alg.exe.config
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\bin\Debug\ex04-alg.exe
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\bin\Debug\ex04-alg.pdb
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\obj\Debug\ex04-alg.csproj.AssemblyReference.cache
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\obj\Debug\ex04-alg.csproj.SuggestedBindingRedirects.cache
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\obj\Debug\ex04-alg.csproj.CoreCompileInputs.cache
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\obj\Debug\ex04-alg.exe
+C:\Users\campi\OneDrive\ADS\algoritmo\ex04-alg\obj\Debug\ex04-alg.pdb
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\bin\Debug\ex04-alg.exe.config
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\bin\Debug\ex04-alg.exe
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\bin\Debug\ex04-alg.pdb
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\obj\Debug\ex04-alg.csproj.AssemblyReference.cache
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\obj\Debug\ex04-alg.csproj.SuggestedBindingRedirects.cache
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\obj\Debug\ex04-alg.csproj.CoreCompileInputs.cache
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\obj\Debug\ex04-alg.exe
+C:\Users\2023102060011\Downloads\atividade1-alg\ex04-alg\obj\Debug\ex04-alg.pdb

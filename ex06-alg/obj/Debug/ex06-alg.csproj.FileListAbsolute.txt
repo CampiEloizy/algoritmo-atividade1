@@ -1,0 +1,8 @@
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\bin\Debug\ex06-alg.exe.config
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\bin\Debug\ex06-alg.exe
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\bin\Debug\ex06-alg.pdb
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\obj\Debug\ex06-alg.csproj.AssemblyReference.cache
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\obj\Debug\ex06-alg.csproj.SuggestedBindingRedirects.cache
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\obj\Debug\ex06-alg.csproj.CoreCompileInputs.cache
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\obj\Debug\ex06-alg.exe
+C:\Users\campi\OneDrive\ADS\algoritmo\ex06-alg\obj\Debug\ex06-alg.pdb
